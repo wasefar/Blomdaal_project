@@ -1,0 +1,395 @@
+
+
+@media only screen and (min-width: 1201px) and (max-width: 1800px) {
+    
+ .bussiness-area.vacature::before {
+	left: 70%;
+}
+    
+}
+
+
+
+/* Medium Layout: 1280px. */
+
+@media only screen and (min-width: 992px) and (max-width: 1200px) {
+    
+.banner-text-area {
+	padding: 69px 50px 15px 0px;
+}
+.text-service-left h3 {
+	font-size: 29px;
+	margin-top: 109px;
+}
+.bussiness-area.vacature::before {
+	left: 70%;
+}
+.main-box.item {
+	width: 70%;
+}
+.team-area-warp {
+	width: 70%;
+}
+.row.main-item {
+	padding: 48px 51px 34px 65px;
+}
+.single-contact-member.bussiness-area::before {
+	height: 76%;
+}
+.form-control.from-input.details-textarea {
+	width: 100%;
+}
+.vacature-details-contact.contact-page {
+	width: 90%;
+}
+    
+}
+/* Tablet Layout: 768px. */
+
+@media only screen and (min-width: 768px) and (max-width: 991px) {
+    
+.single-menu-item li a {
+	font-size: 10px;
+}
+.single-menu-item li {
+	padding-right: 8px;
+}
+.banner-text-area {
+	font-size: 22px;
+	padding: 54px 50px 15px 0px;
+}
+.text-service-left h3 {
+	font-size: 21px;
+	margin-top: 174px;
+}
+.single-text-service p {
+	font-size: 10px;
+}
+.services-area.section-padding-secend {
+	padding: 15px 0 72px;
+}
+.main-box.item {
+	width: 80%;
+}
+.bussiness-area.vacature::before {
+	left: 70%;
+}
+.form-control.from-input.details-textarea {
+	width: 100%;
+}
+.team-area-warp {
+	width: 80%;
+}
+.row.main-item {
+	padding: 48px 51px 34px 0px;
+}
+.form-up-text p {
+	font-size: 18px;
+}
+.single-contact-member.bussiness-area::before {
+	height: 65%;
+	left: -41px;
+	opacity: 0.7;
+}
+.footer-info-single-sc p {
+	font-size: 9px;
+}
+.vacature-details-contact.contact-page {
+	width: 90%;
+}
+    
+
+}
+/* Mobile Layout: 320px. */
+
+@media only screen and (max-width: 767px) {
+    
+    .fas.fa-bars {
+		color: #fff;
+		font-size: 25px;
+	}
+	.mobile-bars {
+		display: block;
+		position: absolute;
+		right: 10px;
+		top: -34px;
+		cursor: pointer;
+	}
+	.overylay-mobile .single-menu-item {
+		position: fixed;
+		top: 0;
+		left: 0;
+		width: 100%;
+		height: 100%;
+		background: #1F1F1F;
+		padding-top: 100px;
+		display: none;
+	}
+	.mobile-cross {
+		display: block;
+		position: absolute;
+		right: 0;
+		top: 0;
+	}
+
+	ul.single-menu-item li{
+		padding-bottom: 10px;
+		display: block;
+		text-align: center;
+		width: 100%;
+	}
+	ul.single-menu-item li a {
+		color: #fff;
+		font-size: 25px;
+		font-weight: 600;
+	}
+	.banner-section .col-md-6 {
+		max-width: 100%;
+		flex: 100%;
+		padding: 16px;
+	    padding-bottom: 50px;
+	}
+	.banner-text-area {
+		padding: 0px;
+		font-size: 24px;
+	}
+	.banner-section {
+		padding-top: 100px;
+	}
+	.owl-carousel .owl-item .bussiness-area img {
+		margin-top: 138px;
+	}
+	.bussiness-area::before {
+		left: -90%;
+		opacity: .3;
+		border-width: 5px;
+	}
+	.owl-theme.bnr-slider .owl-dots {
+		top: 66%;
+	}
+	.section-padding {
+		padding: 0;
+	}
+	.container.service {
+		max-width: 95%;
+	}
+	.services-area::before {
+		width: 48%;
+		height: 88%;
+	}
+	.text-service-left h3 {
+		font-size: 32px;
+		padding-bottom: 15px;
+		margin-top: 10px;
+	}
+	.services-area.section-padding-secend {
+		padding: 72px 0 15px;
+	}
+	.tittle-text-bottom P {
+		font-size: 11px;
+	}
+	.main-box.item {
+		width: 100%;
+		padding: 15px;
+		overflow: hidden;
+	}
+	h4.left-text-item {
+		font-size: 11px;
+	}
+	.icon-area p {
+		margin-right: 12px;
+		font-size: 10px;
+	}
+	span.namber-text::before {
+		top: -36px;
+		font-size: 76px;
+	}
+	.bussiness-area.vacature::before {
+		left: 70%;
+		width: 30%;
+		top: 58%;
+	}
+	.team-area-warp {
+		width: 100%;
+	}
+	.single-team-member {
+		margin-bottom: 32px;
+	}
+	.team-section-area.bussiness-area.vacature::before {
+		top: 52%;
+	}
+	.contact-area {
+		margin: 85px 0;
+	}
+	.row.main-item {
+		padding: 0;
+	}
+	.form-up-text p {
+		font-size: 17px;
+		line-height: 25px;
+		padding-top: 46px;
+	}
+	.form-control.from-input {
+		width: 100%;
+	}
+	.contact-warp-area {
+		margin-top: 44px;
+	}
+	.single-contact-member.bussiness-area::before {
+		z-index: 2;
+		width: 87%;
+		height: 68%;
+		left: 50%;
+		transform: translateX(-50%);
+		top: 17%;
+	}
+	.contact-bottom-area {
+		margin-top: 54px;
+	}
+	.text-service-left h3 {
+		margin-top: 63px;
+	}
+	.form-control.from-input.details-textarea {
+		width: 100%;
+	}
+	.vacature-details-contact.contact-page {
+	width: 90%;
+}
+		
+
+    
+}
+/* Wide Mobile Layout: 480px. */
+
+@media only screen and (min-width: 576px) and (max-width: 767px) {
+
+.banner-section .col-md-6 {
+	max-width: 50%;
+	flex: 50%;
+}
+.owl-carousel .owl-item .bussiness-area img {
+	margin-top: 0;
+}
+.banner-text-area {
+	font-size: 18px;
+	padding-top: 17px;
+}
+.bussiness-area::before {
+	left: -25%;
+	opacity: 1;
+	border-width: 8px;
+}
+.owl-theme.bnr-slider .owl-dots {
+	top: 51%;
+	right: 2%;
+}
+.single-text-service p {
+	font-size: 10px;
+}
+.text-service-left h3 {
+	font-size: 18px;
+	margin-top: 150px;
+}
+.services-area .col-md-5{
+	max-width: 40%;
+	flex: 40%;
+}
+.services-area .col-md-7{
+	max-width: 60%;
+	flex: 60%;
+}
+.section-padding {
+	padding: 70px 0;
+}
+.services-area::before {
+	width: 28%;
+	height: 53%;
+	top: 35%;
+}
+h4.left-text-item {
+	font-size: 15px;
+}
+.icon-area p {
+	margin-right: 18px;
+	font-size: 12px;
+}
+.team-area-warp .col-md-4, .footer-info .col-md-4 {
+	max-width: 33.33%;
+	flex: 33.33%;
+}
+.footer-info{
+	width: 100%;
+}
+.contact-area {
+	margin: 0px 0;
+}
+.contact-info .col-md-6 {
+	max-width: 50%;
+	flex: 50%;
+}
+.single-contact-member img {
+	height: 276px;
+}
+.single-contact-member.bussiness-area::before {
+	opacity: 0.3;
+}
+.footer-info-single-sc p {
+	font-size: 9px;
+}
+.text-center.footer-copyright-sc p {
+	font-size: 10px;
+}
+.form-control.from-input.details-textarea {
+	width: 100%;
+}
+.vacature-details-contact.contact-page {
+	width: 90%;
+}
+    
+
+}
+@media only screen and (min-width: 2000px) and (max-width: 3000px) {
+    
+ .banner-text-area {
+	font-size: 50px;
+	padding: 144px 50px 15px 160px;
+}
+.box-button {
+	font-size: 22px;
+}
+.bussiness-area::before {
+	left: -49%;
+}
+.single-text-service p {
+	font-size: 20px;
+	line-height: 37px;
+}
+.services-area::before {
+	
+	width: 16%;
+	height: 74%;
+}
+.text-service-left h3 {
+	margin-top: 129px;
+}
+.bussiness-area.vacature::before {
+	left: 70%;
+}
+h4.left-text-item {
+	font-size: 22px;
+}
+.icon-area p {
+	margin-right: 31px;
+	font-size: 16px;
+}
+.single-box-item {
+	height: 135px;
+}
+span.namber-text::before {
+	font-size: 130px;
+}
+.single-contact-member img {
+	height: 70%;
+}
+    
+}
